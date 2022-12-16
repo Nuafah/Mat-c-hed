@@ -1,0 +1,153 @@
+{
+    "card1": {
+        "equation": "x + 3 = 4      ",
+        "answer": 1,
+        "difficulty": 1
+    },
+    "card2": {
+        "equation": "4x - 5 = -1     ",
+        "answer": 1,
+        "difficulty": 2
+    },
+    "card3": {
+        "equation": "2^2 + 3 - x = 5  ",
+        "answer": 2,
+        "difficulty": 3
+    },
+    "card4": {
+        "equation": "x + 1 = 3      ",
+        "answer": 2,
+        "difficulty": 1
+    },
+    "card5": {
+        "equation": "2x - 30 = -24  ",
+        "answer": 3,
+        "difficulty": 2
+    },
+    "card6": {
+        "equation": "3 + 3x = 12    ",
+        "answer": 3,
+        "difficulty": 2
+    },
+    "card7": {
+        "equation": "2^2 + x = 8      ",
+        "answer": 4,
+        "difficulty": 2
+    },
+    "card8": {
+        "equation": "x + 2 = 6       ",
+        "answer": 4,
+        "difficulty": 1
+    },
+    "card9": {
+        "equation": "3x - 23 = -8    ",
+        "answer": 5,
+        "difficulty": 2
+    },
+    "card10": {
+        "equation": "4^2 + x = 21     ",
+        "answer": 5,
+        "difficulty": 2
+    },
+    "card11": {
+        "equation": "-3x + 18 = 0    ",
+        "answer": 6,
+        "difficulty": 2
+    },
+    "card12": {
+        "equation": "4x + 0 = 24     ",
+        "answer": 6,
+        "difficulty": 1
+    },
+    "card13": {
+        "equation": "2x + 2 = 16     ",
+        "answer": 7,
+        "difficulty": 1
+    },
+    "card14": {
+        "equation": "x - 3^2 = -2     ",
+        "answer": 7,
+        "difficulty": 2
+    },
+
+    "card15": {
+        "equation": "2x + 3 = 19     ",
+        "answer": 8,
+        "difficulty": 1
+    },
+    "card16": {
+        "equation": "3x  = 24        ",
+        "answer": 8,
+        "difficulty": 1
+    },
+    "card17": {
+        "equation": "3^2 - x = 0      ",
+        "answer": 9,
+        "difficulty": 2
+    },
+    "card18": {
+        "equation": "x + 3 = 12      ",
+        "answer": 9,
+        "difficulty": 1
+    },
+    "card19": {
+        "equation": "10x - 50 = 50   ",
+        "answer": 10,
+        "difficulty": 2
+    },
+    "card20": {
+        "equation": "x + 5^2 = 125    ",
+        "answer": 10,
+        "difficulty": 2
+    },
+    "card21": {
+        "equation": "2x  = 22        ",
+        "answer": 11,
+        "difficulty": 1
+    },
+    "card22": {
+        "equation": "4x + 6 = 50     ",
+        "answer": 11,
+        "difficulty": 2
+    },
+    "card23": {
+        "equation": "x - 4 + 3^2 = 17 ",
+        "answer": 12,
+        "difficulty": 2
+    },
+    "card24": {
+        "equation": "12^2 - 10^2 - x = 32",
+        "answer": 12,
+        "difficulty": 3
+    },
+    "card25": {
+        "equation": "2x + 3 = 29     ",
+        "answer": 13,
+        "difficulty": 2
+    },
+    "card26": {
+        "equation": "x + x = 26      ",
+        "answer": 13,
+        "difficulty": 1
+    },
+    "card27": {
+        "equation": "x + 4 = 18      ",
+        "answer": 14,
+        "difficulty": 1
+    },
+    "card28": {
+        "equation": "5x - 200 = -130 ",
+        "answer": 14,
+        "difficulty": 2
+    },
+    "card29": {
+        "equation": "2x + 3 = 33     ",
+        "answer": 15,
+        "difficulty": 1
+    },
+    "card30": {
+        "equation": "3 + 4x = 63     ",
+        "answer": 15,
+        "difficulty":2
+    }
+}
